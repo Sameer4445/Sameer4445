@@ -15,18 +15,18 @@
 <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer4445&theme=radical" />
+
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer4445&theme=radical" />
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameer4445&theme=radical" />
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer4445&theme=radical" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sameer4445&theme=radical&utcOffset=5.5" />
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Sameer4445&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer4445&theme=radical&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer4445&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 
 </div>
 
