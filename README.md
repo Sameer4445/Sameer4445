@@ -17,8 +17,8 @@
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer4445&theme=radical" />
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer4445&theme=radical" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameer4445&theme=radical" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer4445&theme=radical" />
+
+
 
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer4445&theme=radical&hide_border=false" />
 
