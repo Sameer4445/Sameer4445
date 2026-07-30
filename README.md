@@ -75,22 +75,6 @@ I'm a final-year B.Tech CSE (Data Science) student at S.B. Jain Institute of Tec
 
 <br/><br/>
 
-## Featured Projects
-
-### 🔁 End-to-End CI/CD Pipeline for Student Management App
-`Azure DevOps` · `Docker` · `Azure Container Registry` · `Azure App Service` · `React` · `Express.js` · `SQLite`
-Full CI/CD pipeline automating lint/build/deploy on every push to main; containerized the full-stack app with Docker, pushed images to ACR, and automated deployment to Azure App Service with post-deployment health checks.
-
-### 🤖 Document-Based QA Assistant (RAG)
-`Node.js` · `Express.js` · `MongoDB` · `Retrieval-Augmented Generation`
-Backend-driven RAG application combining retrieval-based context fetching with generative responses; REST APIs for document ingestion, query processing, and structured response delivery.
-
-### 🛠️ Autonomous Incident Responder *(in progress)*
-`LangGraph` · `Kubernetes` · `Prometheus` · `Grafana` · `Slack`
-Flagship project: an AI agent monitoring a local Minikube cluster, diagnosing incidents via LLM-based log/metric analysis, and performing tiered auto-remediation gated by Slack human-in-the-loop approval.
-
-<br/>
-
 ## Connect With Me
 
 <!-- ============== SOCIAL BADGES ============== -->
