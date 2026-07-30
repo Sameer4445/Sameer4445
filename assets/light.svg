@@ -732,7 +732,7 @@
 </g>
 <line x1="460" y1="55" x2="460" y2="565" stroke="#0891B2" stroke-width="1" opacity="0.25"/>
 <text x="500" y="66" font-family="monospace" font-size="13" fill="#0891B2" letter-spacing="2">SYSTEM.INFO</text>
-<text x="500" y="90" font-family="monospace" font-size="14" fill="#5B6472">Subject</text>
+<text x="500" y="90" font-family="monospace" font-size="14" fill="#5B6472">Name</text>
 <text x="560.9" y="90" font-family="monospace" font-size="14" fill="#5B6472" opacity="0.4">....................................................................................</text>
 <text x="1140" y="90" text-anchor="end" font-family="monospace" font-size="14" fill="#1A1F2B" textLength="109.2" lengthAdjust="spacingAndGlyphs">Sameer Pathan</text>
 <text x="500" y="113" font-family="monospace" font-size="14" fill="#5B6472">Role</text>
@@ -777,7 +777,4 @@
 <text x="500" y="412" font-family="monospace" font-size="14" fill="#5B6472">Grid.GitHub</text>
 <text x="592.2" y="412" font-family="monospace" font-size="14" fill="#5B6472" opacity="0.4">...................................................................................</text>
 <text x="1140" y="412" text-anchor="end" font-family="monospace" font-size="14" fill="#1A1F2B" textLength="84.0" lengthAdjust="spacingAndGlyphs">Sameer4445</text>
-<text x="500" y="435" font-family="monospace" font-size="14" fill="#5B6472">Grid.Facebook</text>
-<text x="607.9" y="435" font-family="monospace" font-size="14" fill="#5B6472" opacity="0.4">.............................................................................</text>
-<text x="1140" y="435" text-anchor="end" font-family="monospace" font-size="14" fill="#1A1F2B" textLength="100.8" lengthAdjust="spacingAndGlyphs">not provided</text>
 </svg>
