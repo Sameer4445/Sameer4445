@@ -66,11 +66,11 @@ I'm a final-year B.Tech CSE (Data Science) student at S.B. Jain Institute of Tec
 
 ## Contribution Snake
 
-<!-- ============== SNAKE (only add after .github/workflows/snake.yml has run GREEN once — the output branch does not exist before then) ============== -->
+<!-- ============== SNAKE ============== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/dist/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/dist/snake-light.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/dist/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/snake-light.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/snake-dark.svg">
 </picture>
 
 <br/><br/>
