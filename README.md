@@ -64,7 +64,7 @@ An AI-powered Kubernetes incident response system that continuously monitors clu
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql&theme=dark"/>
 
 ### AI / Machine Learning
 
@@ -117,25 +117,6 @@ An AI-powered Kubernetes incident response system that continuously monitors clu
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer4445&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## <img src="https://img.shields.io/badge/Contribution_Graph-0D1117?style=flat-square&logo=githubactions&logoColor=white"/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer4445&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/Contribution_Snake-0D1117?style=flat-square&logo=git&logoColor=white"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/snake-light.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Sameer4445/Sameer4445/output/snake-dark.svg">
-</picture>
 
 
 ---
