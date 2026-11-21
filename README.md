@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sameer%20Pathan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Agentic%20AI%20|%20Data%20Science&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sameer%20Pathan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20|%20Agentic%20AI%20|%20Data%20Science&descAlignY=56&descSize=18" width="100%" />
 
 <br>
 
